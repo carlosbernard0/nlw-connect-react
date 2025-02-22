@@ -1,3 +1,7 @@
+## NLW CONNECT - Trilha de React
+
+[Figma do projeto](https://www.figma.com/design/7n15bZTh8VVndh3BMuVKLq/NLW-Connect-%E2%80%A2-DevStage-(Community)?node-id=3-376&p=f&t=590ebjR7kJCqIS5l-0)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
